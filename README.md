@@ -5,4 +5,4 @@ Run my aplication
 4.1.First URL generate oun.
 4.2.Second your write host
 4.3. Write repositoty path
-4.4.Choose my repository path: yanyshivska 
+4.4.Choose my repository path: Sem_5
